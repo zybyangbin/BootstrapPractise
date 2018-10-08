@@ -46,3 +46,47 @@ body {
 	border-bottom: 1px solid #ddd;
 	padding: 10px;
 }
+
+
+#specialist{
+	width: 130px;
+	height: 150px;
+}
+
+.carousel {
+	background: #512DA8;
+}
+
+.carousel-item {
+	height: 300px;
+}
+
+.carousel-item img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
